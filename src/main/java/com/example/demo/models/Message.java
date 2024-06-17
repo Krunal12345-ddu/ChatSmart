@@ -1,6 +1,6 @@
 package com.example.demo.models;
 
-public class Message {
+public class Messag{
 private String name;
 private String content;
 public String getName() {
